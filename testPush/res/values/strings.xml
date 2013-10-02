@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testPush</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="titile">Push Notification Client</string>
+    <string name="start">Register</string>
+    <string name="unreg">Unregister</string>
+    <string name="reg">Registering device to GCM server</string>
+    <string name="regId">Reg Id</string>
+    <string name="sender_id">sender_id</string>
+    <string name="email">Email Reg id</string>
+
+</resources>
